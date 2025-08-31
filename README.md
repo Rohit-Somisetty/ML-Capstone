@@ -1,4 +1,4 @@
-# ML Capstone 1 - E-Commerce Customer Segmentation
+# ML Capstone 
 
 ## Project Overview
 This project analyzes a UK-based e-commerce dataset to segment customers using unsupervised machine learning. The goal is to enable targeted marketing and product recommendations by understanding customer behavior and purchasing patterns.
