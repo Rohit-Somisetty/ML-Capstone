@@ -49,11 +49,3 @@ This project analyzes a UK-based e-commerce dataset to segment customers using u
 - Further analyze clusters for actionable business insights.
 - Deploy the recommendation system or integrate with marketing tools.
 
-## References
-- [UCI Machine Learning Repository - Online Retail Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail)
-- [scikit-learn documentation](https://scikit-learn.org/stable/)
-- [pandas documentation](https://pandas.pydata.org/)
-
----
-
-*Project by Rohit Somisetty*
